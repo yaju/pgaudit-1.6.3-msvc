@@ -1,0 +1,5 @@
+LIBRARY pgaudit
+EXPORTS
+  _PG_init
+  pgaudit_ddl_command_end
+  pgaudit_sql_drop
